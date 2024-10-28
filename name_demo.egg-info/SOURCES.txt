@@ -1,0 +1,10 @@
+README.md
+setup.py
+name_demo.egg-info/PKG-INFO
+name_demo.egg-info/SOURCES.txt
+name_demo.egg-info/dependency_links.txt
+name_demo.egg-info/top_level.txt
+src/__init__.py
+src/lib/__init__.py
+src/lib/main.py
+src/lib/person.py
